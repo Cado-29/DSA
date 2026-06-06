@@ -31,7 +31,6 @@ public class QueueDS {
         System.out.println(queue.size());
 
         System.out.println(queue.contains("Harold")); // boolean, not index
-
         // Printer Queue
         // Customer service line
         // Used in LinkedLists, PriorityQueues, Breath-first search
